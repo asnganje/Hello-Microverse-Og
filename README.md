@@ -7,11 +7,6 @@ Greetings
 - HTML
 - CSS
 
-
-## Live Demo (if available)
-
-
-
 ## Getting Started
 
 **This is a greetings website.**
